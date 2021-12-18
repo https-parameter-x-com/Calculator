@@ -1,0 +1,157 @@
+
+@media screen and (max-width: 50px) {
+  /* For mobile phones: */
+  *{
+      
+	box-sizing: border-box;
+}
+.body{
+    width: 100%;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+
+}
+.container{
+width: 100%;
+	
+}
+.heading{
+   
+   font-size: 2pt;
+
+    
+}
+.main{
+	width: 100%;
+}
+.result-style{
+	width: 100%;
+  
+
+}
+.row-style{
+	width: 100%;
+}
+.buttons{
+	width: 100%;
+    padding: 2px;	
+}
+.buttons:hover{
+	width: 100%;
+}
+.buttons1{
+	width: 100%;
+    padding: 2px;
+}
+.buttons1:hover{
+	width: 100%;
+}
+#button7{
+	width: 100%;
+}
+#button6:hover{
+	background-color: hotpink;
+	
+} 
+#button13:hover{
+	background-color: hotpink;
+} 
+#button38:hover{
+	background-color: crimson;
+}
+}
+@media screen and (max-width: 220px) {
+    /* For mobile phones: */
+    *{
+        
+      box-sizing: border-box;
+  }
+  .body{
+      width: 100%;
+      margin: 0px;
+      padding: 0px;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+  
+  }
+  .container{
+  width: 100%;
+      
+  }
+  .heading{
+      width: 80px;
+      font-size: 6pt;
+  }
+  .main{
+      width: 100%;
+      font-size: 4pt;
+  }
+  .result-style{
+      width: 100%;
+     padding: 0px;
+  
+  }
+  .row-style{
+      width: 100%;
+  }
+  .buttons{
+      width: 25px;
+      padding: 2px;	
+      font-size: 7pt;
+  }
+      
+  
+  .buttons:hover{
+      width: 25px;
+      font-size: 7pt;
+  }
+  
+  .buttons1{
+      
+      width: 30px;
+      padding: 2px;
+      font-size: 7pt;
+  }
+  
+  .buttons1:hover{
+      width: 30px;
+      font-size: 7pt;
+  }
+  
+  #button7{
+      width: 25px;
+      font-size: 4.9pt;
+      text-align: left;
+      padding: 1px;
+  }
+  
+  #button6:hover{
+      background-color: hotpink;
+      
+  } 
+  #button13:hover{
+      background-color: hotpink;
+  } 
+  #button38:hover{
+      background-color: crimson;
+  }
+  }
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }

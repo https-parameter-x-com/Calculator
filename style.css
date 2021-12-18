@@ -1,0 +1,145 @@
+
+*{
+	box-sizing: border-box;
+}
+.body{
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	background-color: gray;
+	align-content: center;
+	justify-content: center;
+
+}
+.container{
+	background-color: #2E2E2E;
+	text-align: center;
+	padding: 15px;
+	border: 1px solid;
+	border-radius: 20px;
+	
+}
+.header{
+	background-color: none;
+
+}
+.heading{
+	color: black;
+	margin: 0px auto;	
+	background-color:#969696;
+	width: 170px;
+	border: 1px #969696;
+	border-radius: 10px;
+}
+
+.clear-div{
+	clear: both;
+}
+.main{
+	background-color: none;
+	border: 5px solid #00FFFB ;
+	border-radius: 10px;
+}
+.main-div{
+	background-color: #00FFFB;
+
+	
+}
+.result-div{
+	background-color: #00FFFB;
+}
+.result-style{
+	background-color: #C1D2BF;
+	width: 100%;
+	padding: 40px;
+	text-align: right;
+	border: 1px solid;
+	border-radius: 10px;
+	font: 16pt bold;
+}
+.row-style{
+	width: 100%;
+	background-color: blueviolet;
+	padding: 5px;
+	border-radius: 10px;
+}
+.row1{
+	background-color: none;
+	padding-bottom: 5px;
+	
+}
+.row2{
+	padding-bottom: 5px;
+
+}
+.row3{
+	padding-bottom: 5px;
+
+}
+.row4{
+	padding-bottom: 5px;
+
+}
+.row5{
+	padding-bottom: 5px;
+
+}
+.row6{
+	padding-bottom: 5px;
+
+}
+.row7{
+	padding-bottom: 0px;
+}
+.buttons{
+	background-color: cadetblue;
+	height: 30px;
+	width: 40px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: .8rem;
+	
+}
+.buttons:hover{
+	background-color: blue;
+	color: white;
+	height: 30px;
+	width: 40px;
+	border: 1px solid;
+	border-radius: 5px;
+	font-size: .8rem;
+
+}
+.buttons1{
+	background-color: cadetblue;
+	height: 40px;
+	width: 49px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 1.2rem;
+}
+.buttons1:hover{
+	background-color: green;
+	color: white;
+	height: 40px;
+	width: 49px;
+	border: 1px solid;
+	border-radius: 5px;
+	font-size: 1.2rem;
+}
+#button7{
+	font-size: .7rem;
+	padding: 2px;
+	text-align: left;	
+}
+
+#button6:hover{
+	background-color: hotpink;
+	
+} 
+#button13:hover{
+	background-color: hotpink;
+} 
+#button38:hover{
+	background-color: crimson;
+}
